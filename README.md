@@ -19,7 +19,7 @@
 ❑ pkg install python
 ❑ git clone https://github.com/aeroyals/keyboard
 ❑ cd keyboard
-❑ bash install.sh
+❑ python aewoii.py
 ```
 
 ---------
